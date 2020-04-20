@@ -1,0 +1,90 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Apple ipad",
+      "price": 6000,
+      "image": "https://placeimg.com/640/480/tech"
+    },
+    {
+      "id": 2,
+      "name": "Samsung tablet",
+      "price": 5000,
+      "image": "https://placeimg.com/640/480/tech"
+    },
+    {
+      "id": 3,
+      "name": "Apple notebook",
+      "price": 16000,
+      "image": "https://placeimg.com/640/480/tech"
+    },
+    {
+      "id": 4,
+      "name": "Samsung notebook",
+      "price": 15000,
+      "image": "https://placeimg.com/640/480/tech"
+    },
+    {
+      "id": 5,
+      "name": "hp tablet",
+      "price": 4000,
+      "image": "https://placeimg.com/640/480/tech"
+    },
+    {
+      "id": 6,
+      "name": "hp notbook",
+      "price": 14000,
+      "image": "https://placeimg.com/640/480/tech"
+    },
+    {
+      "id": 7,
+      "name": "Acer tablet",
+      "price": 7000,
+      "image": "https://placeimg.com/640/480/tech"
+    },
+    {
+      "id": 8,
+      "name": "Acer notebook",
+      "price": 17000,
+      "image": "https://placeimg.com/640/480/tech"
+    },
+    {
+      "id": 9,
+      "name": "Dell tablet",
+      "price": 8000,
+      "image": "https://placeimg.com/640/480/tech"
+    },
+    {
+      "id": 10,
+      "name": "Dell notebook",
+      "price": 18000,
+      "image": "https://placeimg.com/640/480/tech"
+    }
+  ],
+  "Cart": [
+    {
+      "id": 3,
+      "name": "Apple notebook",
+      "price": 16000,
+      "image": "https://placeimg.com/640/480/tech"
+    },
+    {
+      "id": 2,
+      "name": "Samsung tablet",
+      "price": 5000,
+      "image": "https://placeimg.com/640/480/tech"
+    },
+    {
+      "id": 6,
+      "name": "hp notbook",
+      "price": 14000,
+      "image": "https://placeimg.com/640/480/tech"
+    },
+    {
+      "id": 5,
+      "name": "hp tablet",
+      "price": 4000,
+      "image": "https://placeimg.com/640/480/tech"
+    }
+  ]
+}
