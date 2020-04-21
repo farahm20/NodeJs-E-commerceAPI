@@ -63,15 +63,27 @@
   ],
   "Cart": [
     {
-      "id": 3,
-      "name": "Apple notebook",
-      "price": 16000,
+      "id": 1,
+      "name": "Apple ipad",
+      "price": 6000,
       "image": "https://placeimg.com/640/480/tech"
     },
     {
-      "id": 2,
-      "name": "Samsung tablet",
-      "price": 5000,
+      "id": 5,
+      "name": "hp tablet",
+      "price": 4000,
+      "image": "https://placeimg.com/640/480/tech"
+    },
+    {
+      "id": 7,
+      "name": "Acer tablet",
+      "price": 7000,
+      "image": "https://placeimg.com/640/480/tech"
+    },
+    {
+      "id": 3,
+      "name": "Apple notebook",
+      "price": 16000,
       "image": "https://placeimg.com/640/480/tech"
     },
     {
@@ -81,9 +93,9 @@
       "image": "https://placeimg.com/640/480/tech"
     },
     {
-      "id": 5,
-      "name": "hp tablet",
-      "price": 4000,
+      "id": 2,
+      "name": "Samsung tablet",
+      "price": 5000,
       "image": "https://placeimg.com/640/480/tech"
     }
   ]
